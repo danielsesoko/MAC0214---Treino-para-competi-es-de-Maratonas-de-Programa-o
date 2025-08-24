@@ -14,7 +14,9 @@ Questões resolvidas: A, B, C, D, E.
 
 ## 16/08 - Seletiva USP 5:00h
 
-Nossa Equipe: Please please please don't prove I'm wrong resolveu 7 questões e terminou em 4º lugar.
+Nossa Equipe: Please please please don't prove I'm wrong 
+
+Resolvemos 7 questões e terminamos em 4º lugar.
 
 [Seletiva USP](https://codeforces.com/gym/106039)
 
