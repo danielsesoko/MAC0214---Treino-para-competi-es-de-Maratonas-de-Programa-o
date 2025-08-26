@@ -30,6 +30,6 @@ Questões resolvidas: A e D.
 
 Decidimos simular a Fase Subregional de 2021.
 
-Questões resolvidas: C, E, H, K, N.
+Questões resolvidas: C, E, H, K, M e N.
 
 # Total: 16:55h
