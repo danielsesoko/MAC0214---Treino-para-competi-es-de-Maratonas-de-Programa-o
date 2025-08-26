@@ -28,7 +28,7 @@ Questões resolvidas: A e D.
 
 ## 24/08 - Treino em Equipe - 4:00h
 
-Decidimos simular a Fase Subregional de 2021.
+Decidimos simular a [Fase Subregional de 2021](https://codeforces.com/gym/103388).
 
 Questões resolvidas: C, E, H, K, M e N.
 
