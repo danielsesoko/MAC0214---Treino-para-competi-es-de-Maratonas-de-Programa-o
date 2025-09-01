@@ -46,6 +46,6 @@ Questões resolvidas: A, B e C.
 
 Upsolving do [Torneio Argentino de Programação 2025](https://codeforces.com/gym/106054).
 
-Questões resolvidas: C.
+Questões resolvidas: C e E.
 
 # Total: 26:35h
