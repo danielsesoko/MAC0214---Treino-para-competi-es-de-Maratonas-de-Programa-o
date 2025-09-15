@@ -74,4 +74,4 @@ Resolvemos 6 questões e terminamos na posição 52 do Brasil
 
 ## Total de setembro - 12:40h
 
-#Total - 39:15h
+# Total - 39:15h
