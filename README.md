@@ -48,7 +48,7 @@ Upsolving do [Torneio Argentino de Programação 2025](https://codeforces.com/gy
 
 Questões resolvidas: C e E.
 
-# Total de agosto: 26:35h
+## Total de agosto - 26:35h
 
 ## 03/09 - Treino Individual - 3:00h
 
@@ -72,4 +72,6 @@ Questões resolvidas: A, B, C, D, E e F
 
 Resolvemos 6 questões e terminamos na posição 52 do Brasil 
 
-# Total de setembro: 12:40h
+## Total de setembro - 12:40h
+
+#Total - 39:15h
