@@ -48,4 +48,28 @@ Upsolving do [Torneio Argentino de Programação 2025](https://codeforces.com/gy
 
 Questões resolvidas: C e E.
 
-# Total: 26:35h
+# Total de agosto: 26:35h
+
+## 03/09 - Treino Individual - 3:00h
+
+Continuação do upsolving do [Torneio Argentino de Programação 2025](https://codeforces.com/gym/106054).
+
+Questões resolvidas: B e H.
+
+## 07/09 - Treino em Equipe - 2:00h
+
+Decidimos resolver algumas questões da [Fase Subregional de 2020](https://codeforces.com/gym/102861).
+
+Questões resolvidas: B, F, G e L
+
+## 07/09 - Contest - 2:40h
+
+[Codeforces Round 1047 (Div. 3)](https://codeforces.com/contest/2137)
+
+Questões resolvidas: A, B, C, D, E e F
+
+## 13/09 - Subregional - 5:00h
+
+Resolvemos 6 questões e terminamos na posição 52 do Brasil 
+
+# Total de setembro: 12:40h
