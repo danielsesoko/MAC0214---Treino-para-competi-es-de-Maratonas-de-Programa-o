@@ -72,6 +72,12 @@ Questões resolvidas: A, B, C, D, E e F
 
 Resolvemos 6 questões e terminamos na posição 52 do Brasil 
 
-## Total de setembro - 12:40h
+## 20/09 - Contest - 3:00h
+
+[Codeforces Global Round 29 (Div. 1 + Div. 2)](https://codeforces.com/contest/2147)
+
+Questões resolvidas: A, B e C
+
+## Total de setembro - 15:40h
 
 # Total - 39:15h
