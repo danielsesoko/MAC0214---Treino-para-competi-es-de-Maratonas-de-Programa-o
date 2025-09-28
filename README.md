@@ -72,6 +72,10 @@ Questões resolvidas: A, B, C, D, E e F.
 
 Resolvemos 6 questões e terminamos na posição 52 do Brasil.
 
+## 19/09 - Subregional - 3:00h
+
+Fizemos o upsolving das questões K e L da [subregional](https://codeforces.com/gym/106073).
+
 ## 20/09 - Contest - 3:00h
 
 [Codeforces Global Round 29 (Div. 1 + Div. 2)](https://codeforces.com/contest/2147)
@@ -82,7 +86,7 @@ Questões resolvidas: A, B e C.
 
 Aprendemos um tópico avançado de programação dinâmica(Sum over Subsets DP).
 
-Resolvemos exercícios do guia da (USACO)[https://usaco.guide/plat/dp-sos?lang=cpp]
+Resolvemos exercícios do guia da [USACO](https://usaco.guide/plat/dp-sos?lang=cpp])
 
 ## 27/09 - Contest - 1:40h
 
@@ -90,6 +94,6 @@ Resolvemos exercícios do guia da (USACO)[https://usaco.guide/plat/dp-sos?lang=c
 
 Questões Resolvidas: A, B, C e D(upsolving).
 
-## Total de setembro - 22:20h
+## Total de setembro - 25:20h
 
-# Total - 48:55h
+# Total - 51:55h
