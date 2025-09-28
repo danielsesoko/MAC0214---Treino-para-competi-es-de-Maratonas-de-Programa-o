@@ -72,7 +72,7 @@ Questões resolvidas: A, B, C, D, E e F.
 
 Resolvemos 6 questões e terminamos na posição 52 do Brasil.
 
-## 19/09 - Subregional - 3:00h
+## 19/09 - Treino MaratonUSP(CEC) - 3:00h
 
 Fizemos o upsolving das questões K e L da [subregional](https://codeforces.com/gym/106073).
 
