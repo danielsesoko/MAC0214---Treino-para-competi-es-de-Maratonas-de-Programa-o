@@ -60,24 +60,36 @@ Questões resolvidas: B e H.
 
 Decidimos resolver algumas questões da [Fase Subregional de 2020](https://codeforces.com/gym/102861).
 
-Questões resolvidas: B, F, G e L
+Questões resolvidas: B, F, G e L.
 
 ## 07/09 - Contest - 2:40h
 
 [Codeforces Round 1047 (Div. 3)](https://codeforces.com/contest/2137)
 
-Questões resolvidas: A, B, C, D, E e F
+Questões resolvidas: A, B, C, D, E e F.
 
 ## 13/09 - Subregional - 5:00h
 
-Resolvemos 6 questões e terminamos na posição 52 do Brasil 
+Resolvemos 6 questões e terminamos na posição 52 do Brasil.
 
 ## 20/09 - Contest - 3:00h
 
 [Codeforces Global Round 29 (Div. 1 + Div. 2)](https://codeforces.com/contest/2147)
 
-Questões resolvidas: A, B e C
+Questões resolvidas: A, B e C.
 
-## Total de setembro - 15:40h
+## 26/09 - Treino MaratonUSP(CEC) - 5:00h
 
-# Total - 39:15h
+Aprendemos um tópico avançado de programação dinâmica(Sum over Subsets DP).
+
+Resolvemos exercícios do guia da (USACO)[https://usaco.guide/plat/dp-sos?lang=cpp]
+
+## 27/09 - Contest - 1:40h
+
+[AtCoder Beginner Contest 425](https://atcoder.jp/contests/abc425)
+
+Questões Resolvidas: A, B, C e D(upsolving).
+
+## Total de setembro - 22:20h
+
+# Total - 48:55h
