@@ -96,4 +96,12 @@ Questões Resolvidas: A, B, C e D(upsolving).
 
 ## Total de setembro - 25:20h
 
+## 10/10 - Treino MaratonUSP(CEC) - 5:00h
+
+Praticamos implementar exercícios de SOS-DP.
+
+[Vowels](https://codeforces.com/contest/383/problem/E), [SOS Bit Problem](https://codeforces.com/contest/383/problem/E) e [Bits And Pieces](https://codeforces.com/contest/1208/problem/F).
+
+## Total de outubro - 5:00h
+
 # Total - 51:55h
