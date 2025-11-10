@@ -1,5 +1,7 @@
 # MAC0214
 
+## Total de agosto - 26:35h
+
 ## 09/08 - Contest - 1:40h
 
 [AtCoder Beginner Contest 418](https://atcoder.jp/contests/abc418)
@@ -48,7 +50,7 @@ Upsolving do [Torneio Argentino de Programação 2025](https://codeforces.com/gy
 
 Questões resolvidas: C e E.
 
-## Total de agosto - 26:35h
+## Total de setembro - 25:20h
 
 ## 03/09 - Treino Individual - 3:00h
 
@@ -94,7 +96,7 @@ Resolvemos exercícios do guia da [USACO](https://usaco.guide/plat/dp-sos?lang=c
 
 Questões Resolvidas: A, B, C e D(upsolving).
 
-## Total de setembro - 25:20h
+## Total de outubro - 26:30h
 
 ## 03/10 - Contest - 2:15h
 
@@ -130,7 +132,7 @@ Simulamos em equipe o [ICPC Central Russia Regional Contest, 2024](https://codef
 
 Questões Resolvidas: A, H, I, J, K, L e N.
 
-## Total de outubro - 26:30h
+## Total de novembro - 7:00h
 
 ## 07/11 - Treino MaratonUSP(CEC) - 5:00h
 
@@ -141,7 +143,5 @@ Discutimos problemas do [Codeforces Global Round 30 (Div. 1 + Div. 2)](https://c
 [Codeforces Round 1063 (Div. 2)](https://codeforces.com/contest/2163)
 
 Questões Resolvidas: A e B(Upsolving).
-
-## Total de novembro - 7:00h
 
 # Total - 56:55h
