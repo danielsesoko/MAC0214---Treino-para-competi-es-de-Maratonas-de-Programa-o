@@ -96,12 +96,52 @@ Questões Resolvidas: A, B, C e D(upsolving).
 
 ## Total de setembro - 25:20h
 
+## 03/10 - Contest - 2:15h
+
+[Codeforces Round 1054 (Div. 3)](https://codeforces.com/contest/2149)
+
 ## 10/10 - Treino MaratonUSP(CEC) - 5:00h
 
 Praticamos implementar exercícios de SOS-DP.
 
 [Vowels](https://codeforces.com/contest/383/problem/E), [SOS Bit Problem](https://codeforces.com/contest/383/problem/E) e [Bits And Pieces](https://codeforces.com/contest/1208/problem/F).
 
-## Total de outubro - 5:00h
+## 15/10 - Contest - 2:00h
 
-# Total - 51:55h
+[Educational Codeforces Round 183 (Rated for Div. 2)](https://codeforces.com/contest/2145)
+
+## 17/10 - Treino Individual - 5:00h
+
+Resolução de problemas do [Codeforces Round 1058 (Div. 2)](https://codeforces.com/contest/2160)
+
+## 24/10 - Treino MaratonUSP(CEC) - 5:00h
+
+Discutimos problemas do [Codeforces Round 1061 (Div. 2)](https://codeforces.com/contest/2156)
+
+## 28/10 - Contest - 2:15h
+
+[Codeforces Round 1062 (Div. 4)](https://codeforces.com/contest/2167)
+
+Questões Resolvidas: A, B, C e D.
+
+## 31/10 - Treino MaratonUSP(CEC) - 5:00h
+
+Simulamos em equipe o [ICPC Central Russia Regional Contest, 2024](https://codeforces.com/gym/106035)
+
+Questões Resolvidas: A, H, I, J, K, L e N.
+
+## Total de outubro - 26:30h
+
+## 07/11 - Treino MaratonUSP(CEC) - 5:00h
+
+Discutimos problemas do [Codeforces Global Round 30 (Div. 1 + Div. 2)](https://codeforces.com/contest/2164)
+
+## 10/11 - Contest - 2:00h
+
+[Codeforces Round 1063 (Div. 2)](https://codeforces.com/contest/2163)
+
+Questões Resolvidas: A e B(Upsolving).
+
+## Total de novembro - 7:00h
+
+# Total - 56:55h
