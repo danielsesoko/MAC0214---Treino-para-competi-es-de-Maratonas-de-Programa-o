@@ -102,6 +102,8 @@ Questões Resolvidas: A, B, C e D(upsolving).
 
 [Codeforces Round 1054 (Div. 3)](https://codeforces.com/contest/2149)
 
+Questões Resolvidas: A, B, C e D.
+
 ### 10/10 - Treino MaratonUSP(CEC) - 5:00h
 
 Praticamos implementar exercícios de SOS-DP.
