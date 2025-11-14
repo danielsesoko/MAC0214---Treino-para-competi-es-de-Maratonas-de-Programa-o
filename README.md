@@ -134,7 +134,7 @@ Simulamos em equipe o [ICPC Central Russia Regional Contest, 2024](https://codef
 
 Questões Resolvidas: A, H, I, J, K, L e N.
 
-# Total de novembro - 7:00h
+# Total de novembro - 9:00h
 
 ### 07/11 - Treino MaratonUSP(CEC) - 5:00h
 
@@ -146,4 +146,12 @@ Discutimos problemas do [Codeforces Global Round 30 (Div. 1 + Div. 2)](https://c
 
 Questões Resolvidas: A e B(Upsolving).
 
-# Total - 56:55h
+### 14/11 - Contest - 2:00h
+
+[Educational Codeforces Round 184 (Rated for Div. 2)](https://codeforces.com/contest/2169)
+
+Questões resolvidas: A, B e C
+
+# Total - 91:25h
+
+
