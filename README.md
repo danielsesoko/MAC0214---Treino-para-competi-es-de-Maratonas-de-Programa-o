@@ -114,13 +114,23 @@ Praticamos implementar exercícios de SOS-DP.
 
 [Educational Codeforces Round 183 (Rated for Div. 2)](https://codeforces.com/contest/2145)
 
+Questões Resolvidas: A, B e C(upsolving em 17/10).
+
 ### 17/10 - Treino Individual - 5:00h
 
-Resolução de problemas do [Codeforces Round 1058 (Div. 2)](https://codeforces.com/contest/2160)
+Simulado do [Codeforces Round 1058 (Div. 2)](https://codeforces.com/contest/2160)
+
+Questões Resolvidas: A, B e C(upsolving).
+
+Upsolving do [Educational Codeforces Round 183 (Rated for Div. 2)](https://codeforces.com/contest/2145)
+
+Questões Resolvidas: C(upsolving).
 
 ### 24/10 - Treino MaratonUSP(CEC) - 5:00h
 
-Discutimos problemas do [Codeforces Round 1061 (Div. 2)](https://codeforces.com/contest/2156)
+Simulado do [Codeforces Round 1061 (Div. 2)](https://codeforces.com/contest/2156)
+
+Questões Resolvidas: A, B e C(upsolving).
 
 ### 28/10 - Contest - 2:15h
 
@@ -134,17 +144,19 @@ Simulamos em equipe o [ICPC Central Russia Regional Contest, 2024](https://codef
 
 Questões Resolvidas: A, H, I, J, K, L e N.
 
-# Total de novembro - 13:30h
+# Total de novembro - 25:30h
 
 ### 07/11 - Treino MaratonUSP(CEC) - 5:00h
 
-Discutimos problemas do [Codeforces Global Round 30 (Div. 1 + Div. 2)](https://codeforces.com/contest/2164)
+Resolução de problemas do [Codeforces Global Round 30 (Div. 1 + Div. 2)](https://codeforces.com/contest/2164)
+
+Questões Resolvidas: A(upsolving), B(upsolving) e C(upsolving).
 
 ### 10/11 - Contest - 2:00h
 
 [Codeforces Round 1063 (Div. 2)](https://codeforces.com/contest/2163)
 
-Questões Resolvidas: A e B(Upsolving).
+Questões Resolvidas: A e B(upsolving).
 
 ### 14/11 - Contest - 2:00h
 
@@ -164,6 +176,32 @@ Questões resolvidas: A e B.
 
 Questôes resolvidas: A, B, C1, C2, D, F.
 
-# Total - 91:55h
+### 22/11 - Treino Individual - 5:00h
+
+[Codeforces Round 1057 (Div. 2)](https://codeforces.com/contest/2153)
+
+Questões resolvidas: A e B.
+
+Upsolving do [Codeforces Round 1063 (Div. 2)](https://codeforces.com/contest/2163)
+
+Questões resolvidas: C(upsolving).
+
+### 28/11 - Treino Maratonusp(CEC) - 5:00h
+
+[Educational Codeforces Round 185 (Rated for Div. 2)](https://codeforces.com/contest/2170)
+
+Questões resolvidas: A, B e C(upsolving).
+
+Upsolving do [Codeforces Round 1064 (Div. 2)](https://codeforces.com/contest/2166)
+
+Questões resolvidas: C(upsolving).
+
+### 29/11 - Contest - 2:00h
+
+[Codeforces Round 1067 (Div. 2)](https://codeforces.com/contest/2158)
+
+Questões resolvidas: A e B.
+
+# Total - 103:55h
 
 
